@@ -1,0 +1,1 @@
+In this notebook we will be looking at data from the stock market, particularly some technology stocks(AAPL, GOOG, MSFT, AMZN). We show how to use pandas to get stock information, visualize different aspects of it. We will also be predicting future stock prices using SVM algorithm (r2-score: 0.94)
