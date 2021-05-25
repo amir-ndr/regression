@@ -1,0 +1,2 @@
+Bitcoin is the very first decentralized digital currency. This means this is not being governed by the government or by any central bank or any other authority.
+we use SVR and Polynomial Regression methods and in both we got 0.60 R2-score for test set. and you can see the next week prediction from any days in data set.
